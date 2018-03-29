@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "FA53B478-E932-4F55-A765-9CE7299D6C54",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "887A7227-6A9B-4C06-BEBD-C1F73AD831A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "022732D3-54BF-4476-8E33-BACD657D935B",
+    "height": 24,
+    "width": 248,
+    "x": 12,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E72E2A28-6AE3-4410-93D9-44FAB5A8E429"
+    },
+    {
+      "class": "group",
+      "id": "F95885F9-0414-4741-AAB7-599584B12A77"
+    },
+    {
+      "class": "group",
+      "id": "7876E381-1CA1-421F-8E40-C053752876BC"
+    }
+  ],
+  "name": "按钮",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E7C8B39-0B89-4F87-9347-31767796F9AB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
