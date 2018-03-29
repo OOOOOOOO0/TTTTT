@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "9F813D9A-4E9C-46C3-A7CD-C3346742032B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E1E40A25-E04D-4032-8D10-C558748E70FF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A9484A89-369E-4A07-9AA3-F4DA667FF7B6",
+    "height": 100,
+    "width": 288,
+    "x": 19,
+    "y": 335
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A18CDA21-9AAF-4789-9CA9-BC6CF31F68D2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "307E2911-1E9E-4CCD-B0AF-6FAED26E3834"
+    },
+    {
+      "class": "text",
+      "id": "469AFFC8-8078-4493-9018-34F1AFB4476C"
+    },
+    {
+      "class": "group",
+      "id": "FDE7A84C-11F4-4BB9-8795-1252D97585B9"
+    },
+    {
+      "class": "text",
+      "id": "A67C5124-38BA-40D3-9A99-382E62A4CF0E"
+    },
+    {
+      "class": "group",
+      "id": "70AD534B-B8BE-4F1C-8DAC-938EF816ED94"
+    },
+    {
+      "class": "text",
+      "id": "DDAF0546-95CC-4634-A5C2-8C40730B962D"
+    },
+    {
+      "class": "group",
+      "id": "B001428C-AD91-453C-B4B2-EF51192DD730"
+    }
+  ],
+  "name": "工作助理",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "89D51ADE-2282-40C9-927B-1936C77E32EB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

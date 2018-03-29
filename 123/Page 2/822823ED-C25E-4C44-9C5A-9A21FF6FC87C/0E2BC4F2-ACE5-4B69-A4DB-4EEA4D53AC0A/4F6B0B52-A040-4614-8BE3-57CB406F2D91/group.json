@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "4F6B0B52-A040-4614-8BE3-57CB406F2D91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "33FE235B-2026-43FF-AC31-10C23267B64D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A10B825-74F2-49B8-AB05-0970F17F4814",
+    "height": 100,
+    "width": 288,
+    "x": 19,
+    "y": 650
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "64B8BB22-D180-4DE6-AD2C-4900443B0210"
+    },
+    {
+      "class": "group",
+      "id": "34E42151-32BC-4D5D-87CE-59713BE7883D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "062B2316-02AA-42D6-9209-9B21AF39277C"
+    },
+    {
+      "class": "text",
+      "id": "BED97F10-37D2-463C-9DC6-A0128B112B5F"
+    },
+    {
+      "class": "text",
+      "id": "58847ACA-4056-4376-B5F5-9BEBBCA81EC7"
+    },
+    {
+      "class": "group",
+      "id": "6F523890-475D-4BA6-8A41-866220619347"
+    },
+    {
+      "class": "text",
+      "id": "9B201FD9-98B0-4590-A817-0A6B2EA5C72A"
+    }
+  ],
+  "name": "学习兴趣组",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6C42F199-A241-45E0-804E-3294AA75FEF9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

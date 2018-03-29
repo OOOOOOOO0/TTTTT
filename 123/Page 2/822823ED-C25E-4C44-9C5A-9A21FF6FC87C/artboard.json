@@ -1,0 +1,111 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "60C57210-3A4C-48E5-B4C5-40FA8C24ABAD",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "822823ED-C25E-4C44-9C5A-9A21FF6FC87C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26A48FC9-8A36-44CB-88FE-116CC6B815DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B4FCD9B-8D2C-4FFA-9CB1-A4C77BA76638",
+    "height": 900,
+    "width": 1440,
+    "x": -539,
+    "y": -230
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F781C663-B9EC-4B74-9007-F669BF9288C9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "99C7EE4B-AE98-484D-BEA0-F8BB068C8CCE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D4A12866-778A-400A-9062-EA9AA05B3FC5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE7E8959-221B-42F8-8F03-A5EFE82F9A2A"
+    },
+    {
+      "class": "group",
+      "id": "0DAB9CB4-AE2C-44C0-97E3-045BD03029CC"
+    },
+    {
+      "class": "text",
+      "id": "E1A6ED7B-4320-46BD-91BF-2D963B3DBBF7"
+    },
+    {
+      "class": "group",
+      "id": "DD306626-5898-4B09-8600-9ABA496F77A7"
+    },
+    {
+      "class": "group",
+      "id": "9BB536AF-994E-4B2D-9114-B5CD9000FD26"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE98098F-89E8-4712-98E4-05C26E2A2C08"
+    },
+    {
+      "class": "group",
+      "id": "109C63A7-176D-45A9-A0F5-40A63D9A0DFF"
+    },
+    {
+      "class": "group",
+      "id": "0E2BC4F2-ACE5-4B69-A4DB-4EEA4D53AC0A"
+    }
+  ],
+  "name": "1. 会话页面",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "35914716-5C35-4061-8E5E-35553F4D29D4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9430EBAD-EFA5-496C-A300-876C0E4EC70A",
+    "guides": [
+    ]
+  }
+}
