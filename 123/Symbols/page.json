@@ -1,13 +1,6 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
-  "do_objectID": "DB265946-B9D3-407E-A131-882BB00003DC",
+  "_class": "page",
+  "do_objectID": "ED08C578-CA89-4A66-9782-AC989AA80E1A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,40 +13,36 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 297,
-    "width": 356,
-    "x": 239,
-    "y": 68
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -182,
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "49531F59-BC8D-4837-8688-B352A620F08A"
+      "class": "symbolMaster",
+      "id": "175CAEAB-7230-4912-8BFF-2BC79BF0D0B7"
     }
   ],
-  "name": "r",
-  "nameIsFixed": true,
-  "resizesContent": false,
+  "name": "Symbols",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
@@ -62,7 +51,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -207,
     "guides": [
     ]
   }
